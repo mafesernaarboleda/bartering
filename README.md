@@ -30,4 +30,4 @@ Mira la lista de contribuidores [contributors](https://github.com/mafesernaarbol
 
 ## License
 
-This project is licensed under Apache - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under Apache - see the [LICENSE.md](https://github.com/mafesernaarboleda/bartering/blob/master/LICENSE) file for details
