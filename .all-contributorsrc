@@ -1,0 +1,24 @@
+{
+  "projectName": "bartering",
+  "projectOwner": "mafesernaarboleda",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "mafesernaarboleda",
+      "name": "mafesernaarboleda",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/14205513?v=3",
+      "profile": "https://github.com/mafesernaarboleda",
+      "contributions": [
+        "code",
+        "doc",
+        "question",
+        "example",
+        "tutorial"
+      ]
+    }
+  ]
+}
