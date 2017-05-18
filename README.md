@@ -27,13 +27,7 @@ Como su nombre lo indica en ingles, bartering/trueque es una aplicación movil q
 
 ## Contribuir
 
-Mira la lista de contribuidores [contributors](https://github.com/mafesernaarboleda/bartering/contributors) que participan en este proyecto y si deseas ser participe, solicita [aquí](https://drive.google.com/drive/folders/0B5irn3W7xtHHSlRPUk4wY3lxMk0?usp=sharing) los permisos para el drive de google para tener mas detalle
-
-## License
-
-This project is licensed under Apache - see the [LICENSE.md](https://github.com/mafesernaarboleda/bartering/blob/master/LICENSE) file for details
-
-## Contributors
+Mira la lista de contribuidores [contributors](https://github.com/mafesernaarboleda/bartering/contributors) que participan en este proyecto y si deseas ser participe, solicita [aquí](https://drive.google.com/drive/folders/0B5irn3W7xtHHSlRPUk4wY3lxMk0?usp=sharing) los permisos para el drive de google para tener mas detalle.
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
@@ -43,3 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+
+This project is licensed under Apache - see the [LICENSE.md](https://github.com/mafesernaarboleda/bartering/blob/master/LICENSE) file for details
