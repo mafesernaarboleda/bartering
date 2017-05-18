@@ -19,6 +19,19 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "khriztianmoreno",
+      "name": "Khriztian Moreno",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1481964?v=3",
+      "profile": "http://khriztianmoreno.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "question",
+        "example",
+        "tutorial"
+      ]
     }
   ]
 }
