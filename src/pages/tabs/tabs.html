@@ -1,0 +1,8 @@
+<ion-tabs no-navbar color="light">
+  <ion-tab [root]="tabHome" tabIcon="home"></ion-tab>
+  <ion-tab></ion-tab>
+  <ion-tab [root]="tabNotification" tabIcon="notifications" tabBadge="2" tabBadgeStyle="primary"></ion-tab>
+  <ion-fab class="special-fab -bottom" center bottom>
+      <button ion-fab mini color="dark" (click)="openModal({charNum: 0})"><ion-icon name="md-add"></ion-icon></button>
+    </ion-fab>
+</ion-tabs>

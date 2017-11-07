@@ -1,0 +1,47 @@
+<ion-menu [content]="mainContent">
+  <ion-header>
+    <ion-toolbar color="dark">
+        <ion-row padding>
+            <ion-col item-center>
+                <ion-avatar class="avatar avatar-profile ">
+                    <img src="https://pbs.twimg.com/profile_images/920062386358444038/R0XzV4F-.jpg">
+                </ion-avatar>
+            </ion-col>
+        </ion-row>
+        <ion-row no-padding>
+            <ion-col text-center>
+                <ion-label color="light" style="font-weight: bold;">Maria Fernanda Serna Arboleda</ion-label>
+                <ion-label color="light">Hola esto es una prueba, gracias!!</ion-label>
+            </ion-col>
+          </ion-row>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+      <ion-list>
+        <button ion-item>
+            <ion-icon name='contact'></ion-icon>
+              Profile
+        </button>
+        <button ion-item>
+            <ion-icon name='images'></ion-icon>
+             Photos
+        </button>
+        <button ion-item>
+            <ion-icon name='briefcase'></ion-icon>
+            My exchange
+        </button>
+        <button ion-item>
+            <ion-icon name='notifications'></ion-icon>
+            Notifications
+        </button>
+      </ion-list>
+    </ion-content>
+    <ion-footer>
+        <button ion-item class='item-noborder'>
+            <ion-icon name='settings'></ion-icon>
+            Settings
+        </button>
+    </ion-footer>
+</ion-menu>
+
+<ion-nav #mainContent [root]="rootPage"></ion-nav>
