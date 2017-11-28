@@ -1,12 +1,10 @@
 import { Component,ElementRef } from '@angular/core';
 import { Platform, NavParams, ViewController } from 'ionic-angular';
-import {Autosize} from 'ionic2-autosize';
 
 @Component({
   templateUrl: 'post.html',
 
 })
-
 export class PostPage {
   character;
 
