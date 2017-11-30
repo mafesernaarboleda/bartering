@@ -1,10 +1,10 @@
-import {Component, ViewChild} from '@angular/core';
-import {Platform} from 'ionic-angular';
+import { Component, ViewChild } from '@angular/core';
+import { Platform } from 'ionic-angular';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { TabsPage } from '../pages/tabs/tabs';
-import {ProfilePage} from "../pages/profile/profile";
+import { ProfilePage } from "../pages/profile/profile";
 
 @Component({
   templateUrl: 'app.html'
