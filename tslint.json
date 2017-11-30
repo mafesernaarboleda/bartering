@@ -3,6 +3,10 @@
     "no-duplicate-variable": true,
     "no-unused-variable": [
       true
+    ],
+    "object-curly-spacing": [
+      true,
+      "always"
     ]
   },
   "rulesDirectory": [
